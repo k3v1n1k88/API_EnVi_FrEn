@@ -1,0 +1,32 @@
+{
+	"chien":{
+		"mean":"dog"
+	},
+	"mother":{
+		"mean":"mère"
+	},
+	"serpent":{
+		"mean":"snake"
+	},
+	"visage":{
+		"mean":"face"
+	},
+	"souris":{
+		"mean":"mouse"
+	},
+	"bien":{
+		"mean":"good"
+	},
+	"fille":{
+		"mean":"girl"
+	},
+	"garçon":{
+		"mean":"boy"
+	},
+	"clé":{
+		"mean":"key"
+	},
+	"porte":{
+		"mean":"door"
+	}
+}

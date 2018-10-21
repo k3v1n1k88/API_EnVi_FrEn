@@ -1,0 +1,32 @@
+{
+	"dog":{
+		"mean": "cho"
+	},
+	"cat":{
+		"mean": "meo"
+	},
+	"hello":{
+		"mean":"xin chao"
+	},
+	"a":{
+		"mean":"a"
+	},
+	"b":{
+		"mean":"b"
+	},
+	"c":{
+		"mean":"c"
+	},
+	"d":{
+		"mean":"d"
+	},
+	"house":{
+		"mean":"house"
+	},
+	"garden":{
+		"mean":"vuon"
+	},
+	"mother":{
+		"mean":"me"
+	}
+}
